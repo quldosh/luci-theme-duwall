@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon_title2.png"  >
+  <img src="https://edo.4u.uz/duwall/duwall.png"  >
   <h1 align="center">
     A new LuCI theme for OpenWrt
   </h1>
     <h3 align="center">
-    Argon is a clean HTML5 theme for LuCI. Users may<br>setup their own favorite logins, including beautiful<br>pics and customized mp4 videos.<br><br>
+    DuWall is a clean HTML5 theme for LuCI. Users may<br>setup their own favorite logins, including beautiful<br>pics and customized mp4 videos.<br><br>
   </h3>
 
   <a href="/LICENSE">
@@ -35,8 +35,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif">
 </div>
-
-<br>English | [简体中文](README_ZH.md)
 
 ## Notice 
 It is strongly recommended to use the Chrome browser. Some new css3 features are used in the theme, and currently only Chrome has the best compatibility.
